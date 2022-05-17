@@ -20,4 +20,4 @@ pwntrack@kali:~$ sudo PwnTrack5
 
 # What To Do In PwnTrack5 ?
 #### [01] pwntools
-<img width="50%" src="https://github.com/PwnTrack/PwnTrack5/raw/main/pwntool.png"/>
+<img width="100%" src="https://github.com/PwnTrack/PwnTrack5/raw/main/pwntool.png"/>
