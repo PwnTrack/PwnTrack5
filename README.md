@@ -14,3 +14,6 @@ pwntrack@kali:~$ sudo chmod +x *
 ```
 pwntrack@kali:~$ sudo ./install.sh
 ```
+```
+pwntrack@kali:~$ sudo PwnTrack5
+```
