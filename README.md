@@ -21,3 +21,8 @@ pwntrack@kali:~$ sudo PwnTrack5
 # What To Do In PwnTrack5 ?
 #### [01] pwntools
 <img width="100%" src="https://github.com/PwnTrack/PwnTrack5/raw/main/pwntool.png"/>
+##### So , 'pwntools' shows all the hacking tool categories in PwnTrack5 simple aight :)
+
+#### [02] lst pwn1
+<img width="100%" src="https://github.com/PwnTrack/PwnTrack5/raw/main/lst.png"/>
+##### lst pwn1 , is just an example as from the above pwntools shows you hacking tool categories and 'lst pwn1' shows the tools inside the 1st section '[01] DDoS-Attack' simple :)
