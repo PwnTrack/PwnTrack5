@@ -32,4 +32,4 @@ pwntrack@kali:~$ sudo PwnTrack5
 #### [03] use pwn1 02
 <img width="100%" src="https://github.com/PwnTrack/PwnTrack5/raw/main/lst.png"/>
 <img width="100%" src="https://github.com/PwnTrack/PwnTrack5/raw/main/use.png"/>
-[Q] use pwn1 02 , is using a tool in the 'DDoS' Categorie because 'DDos-Attacks' is on 01 and i want to use the 2nd tool in it so i will use 'use pwn1 02' and boom i made it so fucking easy that u dont even have to manualy execute the script just enter the info needed and start DDoSing the target with the tools selected. 'pwn1' represents the 1st hacking categorie
+[Q] use pwn1 02 , is using a tool in the 'DDoS' Categorie because 'DDos-Attacks' is on 01 and i want to use the 2nd tool in it so i will use 'use pwn1 02' and boom u dont have to manualy execute the script just enter the info needed and start DDoSing the target with the tools selected. 'pwn1' represents the 1st hacking categorie
